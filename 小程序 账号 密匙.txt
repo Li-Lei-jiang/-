@@ -1,0 +1,4 @@
+AppID(小程序ID)	wx35a93781959a069d 
+AppSecret(小程序密钥)     79e2155efec194184ec58986c57648c3
+
+账号：948704474@qq.con	lilei1993
